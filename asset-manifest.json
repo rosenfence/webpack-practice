@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rosenfence/webpack-practice/static/css/main.98235e6e.css",
+    "main.js": "/rosenfence/webpack-practice/static/js/main.09861173.js",
+    "index.html": "/rosenfence/webpack-practice/index.html",
+    "main.98235e6e.css.map": "/rosenfence/webpack-practice/static/css/main.98235e6e.css.map",
+    "main.09861173.js.map": "/rosenfence/webpack-practice/static/js/main.09861173.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98235e6e.css",
+    "static/js/main.09861173.js"
+  ]
+}
